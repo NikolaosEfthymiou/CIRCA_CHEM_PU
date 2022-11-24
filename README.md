@@ -8,14 +8,14 @@ RMD files:
 2. part_2_descriptives_models: biomarker analysis, data preprocessing and mixed effect models (including sensitivity analysis - only subjects who were compliant in both treatment periods (n=33)).
 3. part_3_metabolomics: metabolomics preprocessing and models.
 
-data_files folder--- includes all the csvs and excel files used for the statistical analysis
-	- CIRCACHEMStudy_codebook: excel file with the coding used in RedCap 
-	- CIRCACHEMStudy_DATA_2021-03-04_1440_3: csv file with the raw results extracted from RedCap
-	- Copy of CIRCA CHEM_Participants Registry_29.12.20_2: excel file used for extracting participants’ photo compliance
-	- Fruits-Vegetables-kcal: excel file used for extracting data regarding usual fruit and vegetable consumption and data on energy intake from the 24-DHR 
-	- 3PBA-6CN Creatinine CIRCACHEM Final: biomarker measurements for creatinine, 3-PBA and 6CN 
-	- 4HNE CIRCACHEM RESULTS_v2: measurements for 4HNE biomarker 
-	- Cortisol: measurements for cortisol biomarker 
+data_files folder: includes all the csvs and excel files used for the statistical analysis
+1. CIRCACHEMStudy_codebook: excel file with the coding used in RedCap 
+2. CIRCACHEMStudy_DATA_2021-03-04_1440_3: csv file with the raw results extracted from RedCap
+3. Copy of CIRCA CHEM_Participants Registry_29.12.20_2: excel file used for extracting participants’ photo compliance
+4. Fruits-Vegetables-kcal: excel file used for extracting data regarding usual fruit and vegetable consumption and data on energy intake from the 24-DHR 
+5. 3PBA-6CN Creatinine CIRCACHEM Final: biomarker measurements for creatinine, 3-PBA and 6CN 
+6. 4HNE CIRCACHEM RESULTS_v2: measurements for 4HNE biomarker 
+7. Cortisol: measurements for cortisol biomarker 
 
 html files: outputs of RMD files
  
